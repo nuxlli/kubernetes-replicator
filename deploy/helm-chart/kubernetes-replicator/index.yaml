@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  kubernetes-replicator:
+  - apiVersion: v1
+    appVersion: 1.0.0-alpha1
+    created: 2019-04-27T03:25:08.188281-03:00
+    description: Controller for replicating secrets+configmaps across namespaces
+    digest: e863661c0108000b48817027dc522d9972608d067879f20bed4abdb5001d63e6
+    name: kubernetes-replicator
+    urls:
+    - kubernetes-replicator-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-04-27T03:25:08.187399-03:00
